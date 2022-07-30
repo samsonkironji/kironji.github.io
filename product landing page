@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link href="" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <header id="header">
+      <img src="" id="header-img"/>
+      <nav id="nav-bar">
+        <a href="#about-us"class="nav-link" class="nav-link">About us</a>
+        <a href="#products"class="nav-link"> Products </a>
+        <a href="#features" class="nav-link"> Features</a
+      </nav>
+    </header>
+    
+    <div id='about-us'></div>
+    <div id='features'></div>
+    <div id='products'></div>
+    <video id="video" height="200px" width="300px" controls>
+      <source src="https://www.youtube.com/watch?v=zW7j__N9Pg8" >
+      </video> 
+    
+
+      <form id="form" action="https://www.freecodecamp.com/email-submit" >
+        <input id="email" placeholder="Please Enter your Email" type="email" name="email">
+
+        <input id="submit" type="submit">
+
+      </form>
+
+      <footer id="footer"> <footer>
+  </body>
+</html>
