@@ -1,0 +1,29 @@
+<doctype html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <navbar id="navbar">
+      <a href="#footer"> footer </a>
+
+    </navbar>
+    <section id="welcome-section"> 
+      <h1>Welcome</h1> 
+    </section>
+
+    
+    <div id="projects">
+      <div class="project-tile">
+        <label> Personal Portfolio Webpage</label>
+        <div>
+          <a href="https://github.com/samsonkironji/kironji.github.io/blob/main/product%20landing%20page"> product landing page </a>
+        </div>
+      </div>
+    </div>
+
+    <a href="" id="profile-link" target="_blank"> Git hub </a>
+
+    <footer id="footer"></footer>
+  </body>
+</html>
